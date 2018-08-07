@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+124,Betzler,IN,6.00,Carpet,800,2.25,2.10,1800.00,1680.00,208.80,3688.80
+125,Spanky,PA,6.75,Laminate,810,1.75,2.10,1417.50,1701.00,210.50,3329.00

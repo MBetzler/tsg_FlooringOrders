@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+137,Check Area,CA,9.80,Concrete,443,1.25,3.35,553.75,1484.05,199.70,2237.50

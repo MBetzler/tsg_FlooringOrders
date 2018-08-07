@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+12,O Twelve,CA,9.80,Carpet,100.00,2.25,2.10,225.00,210.00,42.63,477.63
+22,FIFTEEN (Cancelled),PA,6.75,Tile,100.00,3.50,4.15,350.00,415.00,51.64,816.64
+32,FIFTEEN,PA,6.75,Wood,100.00,5.15,4.75,515.00,475.00,66.83,1056.83
+42,Forty-Two (Cancelled),OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88

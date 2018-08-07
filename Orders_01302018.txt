@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+127,Angus,OH,6.25,Tile,345,3.50,4.15,1207.50,1431.75,164.95,2804.20

@@ -1,0 +1,10 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+128,First Product,CA,9.80,Carpet,78,2.25,2.10,175.50,163.80,33.25,372.55
+129,Last Product,WI,1.20,Wood,45,5.15,4.75,231.75,213.75,5.35,450.85
+130,Test Save,MN,7.55,Laminate,33,1.75,2.10,57.75,69.30,9.59,136.64
+131,Customer Person,NY,10.75,Concrete,244,1.25,3.35,305.00,817.40,120.66,1243.06
+132,Check Flow,CA,9.80,Carpet,44,2.25,2.10,99.00,92.40,18.76,210.16
+133,Checking TaxFlow (Cancelled),MI,5.75,Wood,88,5.15,4.75,453.20,418.00,50.09,921.29
+134,Check Tax,MI,5.75,Laminate,333,1.75,2.10,582.75,699.30,73.72,1355.77
+135,Checking Tax,IN,6.00,Laminate,444,1.75,2.10,777.00,932.40,102.56,1811.96
+138,Specific Area,TX,3.65,Plasma Shield,77.1157,150.00,375.00,11567.36,28918.39,1477.73,41963.48

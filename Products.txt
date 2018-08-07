@@ -1,0 +1,7 @@
+ProductType,CostPerSquareFoot,LaborCostPerSquareFoot
+Laminate,1.75,2.10
+Carpet,2.25,2.10
+Wood,5.15,4.75
+Tile,3.50,4.15
+Concrete,1.25,3.35
+Plasma Shield,150.00,375.00

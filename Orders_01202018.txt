@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+136,Check Product,CA,9.80,Plasma Shield,888,150.00,375.00,133200.00,333000.00,45687.60,511887.60

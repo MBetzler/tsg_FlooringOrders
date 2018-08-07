@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,roy (Cancelled),PA,6.75,Laminate,213,1.75,2.10,372.75,447.30,55.35,875.40

@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+126,bubba,IN,6.00,Carpet,450,2.25,2.10,1012.50,945.00,117.45,2074.95

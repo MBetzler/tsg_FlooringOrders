@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+21,SIX2000THIRTEEN,IN,6.00,Wood,100.00,5.15,4.75,515.00,475.00,59.40,1049.40
